@@ -52,6 +52,9 @@ span{
 h1{
     font-size: 2.4rem;
 }
+h1:hover{
+    color: var(--Yellow);
+}
 p{
     color: var(--Grey);
     /* text-align: justify; */
